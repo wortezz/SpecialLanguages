@@ -1,0 +1,10 @@
+# ignoring python related stuff
+.venv
+__pycache__
+*.py[cod]
+.idea
+
+# same with coverage
+.coverage
+*Data/*
+*data/*
